@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NLP with Python
 - 💞️ I’m looking to collaborate related to NLP and NLP algorithm development
 - 📫 How to reach me: 
-- via gmail: abatuhanyigitt@gmail.com or
+- via gmail: abatuhanyigitt@gmail.com
 - via LinkedIn: https://www.linkedin.com/in/batuhan-yi%C4%9Fit-19b67a149/
 
 <!---
