@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Batuhan Yigit</h1>
 <h3 align="center">A passionate Frontend and NLP developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batuhanyigitt" alt="batuhanyigitt" /></a> </p>
-
 - 🔭 I’m currently working on [3DCloth_Model](https://github.com/batuhanyigitt/3DCloth_Model)
 
 - 🌱 I’m currently learning **Artificial Neural Network, TypeScript, Python**
@@ -26,3 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhanyigitt&show_icons=true&locale=en&layout=compact" alt="batuhanyigitt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanyigitt&" alt="batuhanyigitt" /></p>
+
