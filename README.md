@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/batuhanyigitt?tab=repositories](https://github.com/batuhanyigitt?tab=repositories)
 
-- 💬 Ask me about **React.Js, Python, TypeScript**
+- 💬 Ask me about **React.Js, Python, TypeScript, PHP**
 
 - 📫 How to reach me **abatuhanyigitt@gmail.com**
 
