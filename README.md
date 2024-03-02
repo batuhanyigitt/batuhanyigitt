@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Ahmet Batuhan Yigit, a full-time Front-End and WordPress Freelance Developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
