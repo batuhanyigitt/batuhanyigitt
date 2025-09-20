@@ -1,107 +1,100 @@
-### <div align="center">I'm Ahmet Batuhan Yigit, a full-time Front-End and WordPress Freelance Developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
+### <div align="center"><strong>Hi, I'm Ahmet Batuhan Yiğit — Senior Front-End & WordPress Developer 👨‍💻 working remotely since 2019 🚀</strong></div>
 
-- 🔭 I’m currently working on [3DCloth_Model](https://github.com/batuhanyigitt/3DCloth_Model)  
-  
+<p align="center">
+  <!-- Yazma animasyonu -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=4BC3F7&center=true&vCenter=true&width=900&lines=Senior+Front-End+%26+WordPress+Developer;Delivering+High-Impact%2C+Scalable+Digital+Experiences;React%2C+Shopify%2C+Next.js%2C+TypeScript+%26+WordPress" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning TypeScript, React.Js and Three.Js  
-  
+<p align="center">
+  <!-- Dalgalanan üst banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4BC3F7,100:007ACC&height=100&section=header" width="100%"/>
+</p>
 
-- ❓ Ask me about anything related to JavaScript, WordPress, PHP and related technologies  
-  
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Expert-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js%20Specialist-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress%20Senior-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript%20Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify%20Pro-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP%20Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript%20Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-<br/>  
+---
 
+<h3 align="center">📬 Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/batuhan-yiğit-19b67a149" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abatuhanyigitt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abatuhanyigitt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+- 💼 **Senior WordPress Front-End Developer** — specialized in building high-performance, scalable, and SEO-optimized solutions using modern JavaScript frameworks and headless WordPress architectures  
+- 🌱 **Expanding expertise** in Three.js, React, and advanced TypeScript for immersive 3D and interactive front-end experiences  
+- 🧰 **Proficient with:** React, Next.js, TypeScript, Tailwind CSS, WooCommerce, REST/GraphQL APIs, Git workflows, CI/CD pipelines, and performance tuning for Core Web Vitals  
+- ❓ **Ask me about:** Modern front-end development, headless CMS strategies, advanced WordPress theme/plugin development, or optimizing user experiences for speed and accessibility  
 
+---
+## 🛠 **My Skill Set** & 📊 **GitHub Stats**
 
-### Frontend  
- <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-</div>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0; width:100%;">
+<tr>
 
-</td><td valign="top" width="33%">
+<td valign="top" width="65%" style="padding:0;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0; width:100%;">
+<tr>
 
+<td valign="top" width="33%" align="center">
+<h3><strong>🖌 Frontend</strong></h3>
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" style="margin:8px;">
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" style="margin:8px;">
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" style="margin:8px;">
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" style="margin:8px;">
+<img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height="50" style="margin:8px;">
+</td>
 
+<td valign="top" width="33%" align="center">
+<h3><strong>⚙ Backend</strong></h3>
+<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" style="margin:8px;">
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" style="margin:8px;">
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" style="margin:8px;">
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" style="margin:8px;">
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" style="margin:8px;">
+</td>
 
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>   
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+<td valign="top" width="33%" align="center">
+<h3><strong>☁ DevOps</strong></h3>
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" style="margin:8px;" alt="Docker">
+<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" style="margin:8px;" alt="Firebase">
+<img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" style="margin:8px;" alt="Google Cloud">
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" style="margin:8px;" alt="Git">
+</td>
 
-</td><td valign="top" width="33%">
+</tr>
+</table>
+</td>
 
+<td valign="top" width="35%" align="center" style="padding:0;">
+<h3><strong>📊 GitHub Stats</strong></h3>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=batuhanyigitt&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+<br/><br/>
+<img src="https://github-contribution-stats.vercel.app/api/?username=batuhanyigitt" alt="Contribution Graph"/>
+</td>
 
+</tr>
+</table>
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=batuhanyigitt&style=flat-square" alt="Profile views" />
+</p>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/batuhan-yiğit-19b67a149" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=batuhanyigitt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=batuhanyigitt&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+  <!-- Dalgalanan alt banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:4BC3F7&height=80&section=footer"/>
+</p>
