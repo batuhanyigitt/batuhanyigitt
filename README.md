@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/batuhan-yi%C4%9Fit-19b67a149/"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn" /></a>
 <a href="mailto:abatuhanyigitt@gmail.com"><img src="assets/btn-email.svg" height="42" alt="Email abatuhanyigitt@gmail.com" /></a>
 
-Senior front-end developer with 7 years in web development. I build React and TypeScript interfaces, WordPress and WooCommerce platforms, and interactive 3D product experiences. Right now I'm at bold.one, building localized WordPress e-commerce funnels for 15+ markets and the AI-assisted tooling around them.
+Senior front-end developer with 7 years in web development. I build React and TypeScript interfaces, WordPress and WooCommerce platforms, and interactive 3D product experiences. Building localized WordPress e-commerce funnels for 15+ markets and the AI-assisted tooling around them.
 
 I like owning a feature from requirements through implementation, testing and handover, in remote teams. Open to B2B cooperation in Poland and remote contracts across Europe.
 
