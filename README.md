@@ -1,100 +1,58 @@
-### <div align="center"><strong>Hi, I'm Ahmet Batuhan Yiğit — Senior Front-End & WordPress Developer 👨‍💻 working remotely since 2019 🚀</strong></div>
+<img src="assets/hero.svg" width="100%" alt="Batuhan Yiğit, senior front-end and WordPress developer. Based in Poznań, Poland, working remotely since 2019." />
 
-<p align="center">
-  <!-- Yazma animasyonu -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=4BC3F7&center=true&vCenter=true&width=900&lines=Senior+Front-End+%26+WordPress+Developer;Delivering+High-Impact%2C+Scalable+Digital+Experiences;React%2C+Shopify%2C+Next.js%2C+TypeScript+%26+WordPress" alt="Typing SVG" />
-</p>
+<a href="https://www.linkedin.com/in/batuhan-yi%C4%9Fit-19b67a149/"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn" /></a>
+<a href="mailto:abatuhanyigitt@gmail.com"><img src="assets/btn-email.svg" height="42" alt="Email abatuhanyigitt@gmail.com" /></a>
 
-<p align="center">
-  <!-- Dalgalanan üst banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4BC3F7,100:007ACC&height=100&section=header" width="100%"/>
-</p>
+I build websites where WordPress meets modern JavaScript, and I've been doing it remotely for teams since 2019. Lately I'm spending more of my time in Three.js and WebGL, turning product pages into things you can spin, recolour and buy.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Expert-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js%20Specialist-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress%20Senior-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript%20Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify%20Pro-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP%20Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript%20Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+### What I work on
 
----
-
-<h3 align="center">📬 Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/batuhan-yiğit-19b67a149" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abatuhanyigitt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abatuhanyigitt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-- 💼 **Senior WordPress Front-End Developer** — specialized in building high-performance, scalable, and SEO-optimized solutions using modern JavaScript frameworks and headless WordPress architectures  
-- 🌱 **Expanding expertise** in Three.js, React, and advanced TypeScript for immersive 3D and interactive front-end experiences  
-- 🧰 **Proficient with:** React, Next.js, TypeScript, Tailwind CSS, WooCommerce, REST/GraphQL APIs, Git workflows, CI/CD pipelines, and performance tuning for Core Web Vitals  
-- ❓ **Ask me about:** Modern front-end development, headless CMS strategies, advanced WordPress theme/plugin development, or optimizing user experiences for speed and accessibility  
-
----
-## 🛠 **My Skill Set** & 📊 **GitHub Stats**
-
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0; width:100%;">
-<tr>
-
-<td valign="top" width="65%" style="padding:0;">
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0; width:100%;">
-<tr>
-
-<td valign="top" width="33%" align="center">
-<h3><strong>🖌 Frontend</strong></h3>
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height="50" style="margin:8px;">
-</td>
-
-<td valign="top" width="33%" align="center">
-<h3><strong>⚙ Backend</strong></h3>
-<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" style="margin:8px;">
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" style="margin:8px;">
-</td>
-
-<td valign="top" width="33%" align="center">
-<h3><strong>☁ DevOps</strong></h3>
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" style="margin:8px;" alt="Docker">
-<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" style="margin:8px;" alt="Firebase">
-<img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" style="margin:8px;" alt="Google Cloud">
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" style="margin:8px;" alt="Git">
-</td>
-
-</tr>
-</table>
-</td>
-
-<td valign="top" width="35%" align="center" style="padding:0;">
-<h3><strong>📊 GitHub Stats</strong></h3>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=batuhanyigitt&theme=blue-green&hide_border=true" alt="GitHub Streak" />
-<br/><br/>
-<img src="https://github-contribution-stats.vercel.app/api/?username=batuhanyigitt" alt="Contribution Graph"/>
-</td>
-
-</tr>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Headless WordPress</b><br />
+      WordPress as a content API behind React and Next.js front ends, served over REST or GraphQL.
+    </td>
+    <td width="33%" valign="top">
+      <b>Fast storefronts</b><br />
+      WooCommerce and Shopify builds tuned for Core Web Vitals, SEO and accessibility.
+    </td>
+    <td width="33%" valign="top">
+      <b>Interactive 3D</b><br />
+      Three.js and React Three Fiber scenes for product configurators and storytelling.
+    </td>
+  </tr>
 </table>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=batuhanyigitt&style=flat-square" alt="Profile views" />
-</p>
+Happy to talk about headless CMS setups, WordPress theme and plugin architecture, or making a slow site fast.
 
-<p align="center">
-  <!-- Dalgalanan alt banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:4BC3F7&height=80&section=footer"/>
-</p>
+### Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,threejs,html,css" height="42" alt="React, Next.js, TypeScript, JavaScript, Angular, Tailwind CSS, Three.js, HTML, CSS" /><br />
+<img src="https://skillicons.dev/icons?i=wordpress,php,nodejs,graphql,mysql,mongodb,python" height="42" alt="WordPress, PHP, Node.js, GraphQL, MySQL, MongoDB, Python" /><br />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,firebase,gcp,vite" height="42" alt="Git, GitHub, GitHub Actions, Docker, Firebase, Google Cloud, Vite" />
+
+Also WooCommerce, Shopify, REST APIs and CI/CD pipelines.
+
+### Selected work
+
+<a href="https://github.com/batuhanyigitt/WordPress_React_3DCloth_Model_Plugin"><img src="assets/project-3d-tshirt.svg" width="100%" alt="3D T-Shirt Designer for WooCommerce: a WebGL configurator where shoppers style a live 3D shirt and buy it in the same checkout. TypeScript, React Three Fiber, GSAP, WooCommerce." /></a>
+
+<a href="https://github.com/batuhanyigitt/WordPress-Custom-Endpoint-Plugin"><img src="assets/project-api-endpoint.svg" width="49%" alt="Custom API Endpoint: WordPress plugin that pulls records from an external API into a table and loads user details over AJAX. PHP." /></a>
+<a href="https://github.com/batuhanyigitt/GraphQL-Blog-Project"><img src="assets/project-graphql-blog.svg" width="49%" alt="GraphQL Blog: Next.js blog that reads posts from Hygraph over GraphQL with incremental static regeneration. JavaScript." /></a>
+<a href="https://github.com/batuhanyigitt/Angular_Well_Being_Tracker"><img src="assets/project-mood-tracker.svg" width="49%" alt="Mood and Energy Tracker: log daily mood and energy and see a two-week trend chart. Angular 17, Tailwind, Chart.js." /></a>
+<a href="https://github.com/batuhanyigitt/WordPress_Marquee_Text_Plugin"><img src="assets/project-marquee.svg" width="49%" alt="Announcement Marquee: dismissible, animated announcement bar for WordPress with no dependencies. PHP." /></a>
+
+More in my [repositories](https://github.com/batuhanyigitt?tab=repositories).
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/batuhanyigitt/batuhanyigitt/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/batuhanyigitt/batuhanyigitt/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/batuhanyigitt/batuhanyigitt/output/snake-dark.svg" width="100%" alt="My contribution graph being eaten by a snake" />
+</picture>
+
+<img src="https://streak-stats.demolab.com?user=batuhanyigitt&background=0E1A2C&border=22385A&stroke=22385A&ring=5CC8FF&fire=FFB547&currStreakNum=EAF2FB&sideNums=EAF2FB&currStreakLabel=5CC8FF&sideLabels=8EA5C0&dates=8EA5C0&border_radius=12" width="49%" alt="GitHub contribution streak for batuhanyigitt" />
+
+<img src="https://komarev.com/ghpvc/?username=batuhanyigitt&style=flat-square&color=22385A&label=profile%20views" alt="Profile views" />
